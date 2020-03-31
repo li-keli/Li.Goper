@@ -6,6 +6,12 @@ summaryLength = 70
 hasCJKLanguage = true
 copyright = "京ICP备16056969号-1"
 
+enableValine = false
+[params.valine]
+  appId = ""
+  appKey = ""
+  avator = ""
+
 [params]
   AuthorName = "李科笠"
   GitHubUser = "li-keli"
