@@ -6,7 +6,7 @@ summaryLength = 70
 hasCJKLanguage = true
 copyright = "京ICP备16056969号-1"
 
-enableValine = false
+enableValine = true
 [params.valine]
   appId = ""
   appKey = ""
