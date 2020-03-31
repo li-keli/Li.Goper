@@ -1,0 +1,31 @@
+theme = "diary"
+baseURL = "https://blog.likeli.top/"
+languageCode = "en-us"
+title = "Li.Goper"
+summaryLength = 70
+hasCJKLanguage = true
+uglyURLs = true
+
+[params]
+  AuthorName = "李科笠"
+  GitHubUser = "li-keli"
+  Subtitle = "Anything in life worth doing is worth overdoing!"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 3
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 2
+
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 1
