@@ -3,13 +3,12 @@ title: "关于我"
 date: 2020-03-30T10:45:47+08:00
 draft: false
 featured_image: https://oss.likeli.top/uPic/20200331094141
-tags: ["关于我"]
 ---
 
 # 联系方式
 
 - 李科笠/男/1992
-- Email：li.keli0529@gmail.com
+- Email：<a href="mailto:li.keli0529@gmail.com">li.keli0529@gmail.com</a>
 
 ---
 

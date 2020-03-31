@@ -1,16 +1,9 @@
 theme = "diary"
 baseURL = "https://blog.likeli.top/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Li.Goper"
 summaryLength = 70
 hasCJKLanguage = true
-copyright = "京ICP备16056969号-1"
-
-enableValine = true
-[params.valine]
-  appId = ""
-  appKey = ""
-  avator = ""
 
 [params]
   AuthorName = "李科笠"
@@ -22,16 +15,21 @@ enableValine = true
    category = "categories"
 
 [[menu.main]]
-url = "/categories"
-name = "Categories"
-weight = 3
+url = "/posts"
+name = "存档"
+weight = 1
 
 [[menu.main]]
 url = "/tags"
-name = "Tags"
+name = "标签"
 weight = 2
 
 [[menu.main]]
-url = "/posts"
-name = "Archive"
-weight = 1
+url = "/categories"
+name = "分类"
+weight = 3
+
+[[menu.main]]
+url = "/bio"
+name = "关于我"
+weight = 4
