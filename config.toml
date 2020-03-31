@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Li.Goper"
 summaryLength = 70
 hasCJKLanguage = true
-uglyURLs = true
+copyright = "京ICP备16056969号-1"
 
 [params]
   AuthorName = "李科笠"
