@@ -2,8 +2,8 @@
 title: "网络工具瑞士军刀Netcat"
 date: 2020-04-01T20:52:34+08:00
 draft: false
-tags: [Linux软件]
 featured_image: "https://oss.likeli.top/uPic/20200401211928!smail_img_likeli"
+tags: [Linux软件]
 categories: Linux
 ---
 
