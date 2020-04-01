@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-date: 2020-03-30T10:45:47+08:00
+date: 2020-01-1T10:45:47+08:00
 draft: false
 featured_image: https://oss.likeli.top/uPic/20200331094141
 ---
