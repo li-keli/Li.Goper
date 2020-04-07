@@ -2,7 +2,7 @@
 title: "Go_No4"
 date: 2020-03-01T09:29:11+08:00
 draft: false
-tags: [Go, 刷题]
+tags: [Go, 面试题]
 featured_image: "https://oss.likeli.top/uPic/20200401094728"
 categories: 刷题
 ---
