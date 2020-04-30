@@ -33,7 +33,7 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 **项目描述：** 自建IM推送系统，负责企业内部服务对外部的终端（IOS、Android、Web、微信小程序、微信公众号）进行统一的推送服务。我负责整个推送系统的架构设计和主要编码工作。
 
-**技术栈：** Go、WebSocket、Redis/RabbitMQ、Mongodb、ELK、Docker
+**技术栈：** Go、Gin、WebSocket、Redis/RabbitMQ、Mongodb、ELK
 
 **技术相关：**
 
