@@ -9,6 +9,7 @@ hasCJKLanguage = true
   AuthorName = "李科笠"
   GitHubUser = "li-keli"
   Subtitle = "Anything in life worth doing is worth overdoing!"
+  favicon = icon.png
 
 [taxonomies]
    tag = "tags"
