@@ -16,8 +16,8 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
  - 学历：本科
  - 工作年限：6年
- - Github：https://github.com/li-keli
- - Blog：https://blog.likeli.top
+ - Github：[https://github.com/li-keli](https://github.com/li-keli)
+ - Blog：[https://blog.likeli.top](https://blog.likeli.top)
  - 期望职位：资深Go开发工程师
  - 期望城市：武汉/北京
 
