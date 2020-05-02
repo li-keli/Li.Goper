@@ -14,7 +14,7 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 # 个人信息
 
- - 学历：本科
+ - 学历：本科/北京交通大学计算机系
  - 工作年限：6年
  - Github：[https://github.com/li-keli](https://github.com/li-keli)
  - Blog：[https://blog.likeli.top](https://blog.likeli.top)
