@@ -17,7 +17,8 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
  - 学历：本科/北京交通大学计算机系
  - 工作年限：6年
  - Github：[https://github.com/li-keli](https://github.com/li-keli)
- - Blog：[https://blog.likeli.top](https://blog.likeli.top)
+ - Blog：[https://www.cnblogs.com/likeli/](https://www.cnblogs.com/likeli/)
+ - 算法Blog：[https://blog.likeli.top](https://blog.likeli.top)
  - 期望职位：资深Go开发工程师
  - 期望城市：武汉/北京
 
@@ -45,6 +46,14 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 **技术栈：** Go、Gin、WebSocket、Redis、RabbitMQ、Mongodb、ELK
 
+### 混合在线客服
+
+**项目描述：** 整合微信公众号、小程序、APP、WAP的即时通信，连接内部企业知识库，知识图谱。建立在线客服系统，提升客服响应速率和客服服务质量
+
+我负责此项目的后端开发工作，整合公众号、小程序、APP等多种渠道的客户消息，并打通内部知识库，识别客户身份和所有历史交易、咨询数据。然后对Vue前端提供WebAPI、WebSocket接口进行UI展示。
+
+**技术栈：** Go、Gin、WebSocket、Redis、MongoDB
+
 ---
 
 ### 支付网关
@@ -55,7 +64,7 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 ---
 
-### 酒店微服务迁移
+### 酒店服务
 
 **项目描述：** 重写酒店服务，将酒店服务从大项目拆分，重新设计后端服务，快速接入更多的OTA，依托Gitlab-CI/CD进行部署，解决频繁更新上线的问题。提升系统的稳定性和鲁棒性。
 
@@ -92,7 +101,8 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 ### 企业数据爬虫
 
-采集北京市工商信息网的企业数据进行可视化分析。我负责爬虫的设计开发工作。
+采集北京市工商信息网的企业数据进行可视化，并对外输出WebAPI提供数据检索能力。
+我负责爬虫的设计开发工作。解决各种遇到的反爬等技术难点。
 
 * 使用requests库做网络请求
 * 使用pyquery做数据摘取
