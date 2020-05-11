@@ -3,8 +3,8 @@ title: "Go面试备忘录"
 date: 2020-05-11T14:50:26+08:00
 draft: false
 featured_image: https://oss.likeli.top/uPic/20200511145046!smail_img_likeli
-tags: ["面试"]
-categories: 面试
+tags: ["面试题", "Go", "Gin", "Redis", "MongoDB", "Nginx"]
+categories: 面试题
 ---
 
 # 面试备忘录
