@@ -17,9 +17,8 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
  - 学历：本科/北京交通大学计算机系
  - 工作年限：6年
  - Github：[https://github.com/li-keli](https://github.com/li-keli)
- - Blog：[https://www.cnblogs.com/likeli/](https://www.cnblogs.com/likeli/)
- - 算法Blog：[https://blog.likeli.top](https://blog.likeli.top)
- - 期望职位：资深Go开发工程师
+ - Blog：[https://blog.likeli.top](https://blog.likeli.top)
+ - 期望职位：Go开发工程师
  - 期望城市：武汉/北京
 
 ---
@@ -32,9 +31,9 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 ## 项目经验
 
-### IM推送网关
+### 推送网关
 
-**项目描述：** 自建IM推送系统，负责企业内部服务对外部的终端（IOS、Android、Web、微信小程序、微信公众号）进行统一的推送服务。项目期间我负责整个推送系统的架构设计和主要编码工作。
+**项目描述：** 自建推送系统，负责企业内部服务对外部的终端（IOS、Android、Web、微信小程序、微信公众号）进行统一的推送服务。项目期间我负责整个推送系统的架构设计和主要编码工作。
 
 * 使用WebSocket协议实现实时推送，支持客户端心跳。
 * 使用分布式开发模式来编写无状态的WebSocket连接端，提高连接数，并部署APIGateway（Kong）进行反向代理和统一鉴权。
