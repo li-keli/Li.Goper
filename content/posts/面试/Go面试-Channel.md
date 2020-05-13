@@ -151,7 +151,7 @@ case OMAKECHAN:
 		n = mkcall1(chanfn(fnname, 1, n.Type), n.Type, init, typename(n.Type), conv(size, argtype))
 ```
 
-`runtime.makechan`和`runtime.makechan64`会根据传入的参数类型和缓冲区大小创建一个新的Channel结构，其中后者用于处理缓冲区大小大于$2^{32}$的情况，所以重点关注`runtime.makechan`函数：
+`runtime.makechan`和`runtime.makechan64`会根据传入的参数类型和缓冲区大小创建一个新的Channel结构，其中后者用于处理缓冲区大小大于$ 2^{32} $的情况，所以重点关注`runtime.makechan`函数：
 
 ```go
 func makechan(t *chantype, size int) *hchan {
