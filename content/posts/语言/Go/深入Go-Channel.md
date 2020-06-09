@@ -1,10 +1,10 @@
 ---
-title: "Go面试 Channel"
+title: "深入Go-Channel"
 date: 2020-05-12T16:17:54+08:00
 draft: false
 featured_image: https://oss.likeli.top/uPic/20200513112628!smail_img_likeli
-tags: ["面试题", "Go", "Channel"]
-categories: 面试题
+tags: ["Go", "Channel"]
+categories: Channel
 ---
 
 # Channel
