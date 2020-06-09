@@ -1,5 +1,5 @@
 ---
-title: "Java系面试题-Mybatis"
+title: "Java-Mybatis手账"
 date: 2020-04-23T16:24:17+08:00
 draft: false
 featured_image: "https://oss.likeli.top/uPic/20200423191221!smail_img_likeli"
