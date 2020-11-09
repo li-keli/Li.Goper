@@ -7,7 +7,6 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 # 联系方式
 
-- 李科笠/男/1992
 - Email：<a href="mailto:li.keli0529@gmail.com">li.keli0529@gmail.com</a>
 
 ---
@@ -29,8 +28,10 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
 
 
 # 工作经历
+## 斗鱼TV
+刚到，暂不更新
 
-## 北京金色世纪商旅网络科技股份有限公司（2016年10月 ~ 至今）
+## 北京金色世纪商旅网络科技股份有限公司（2016年10月 ~ 2020年6月）
 
 **职位：** Go高级开发工程师
 
