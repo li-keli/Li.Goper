@@ -18,7 +18,7 @@ featured_image: https://oss.likeli.top/uPic/20200407174219
  - Github：[https://github.com/li-keli](https://github.com/li-keli)
  - Blog：[https://blog.likeli.top](https://blog.likeli.top)
  - 期望职位：Go开发工程师
- - 期望城市：武汉/北京
+ - 期望城市：武汉
 
 > 目前从事Go后端开发工作，有4年+的Go服务端开发经验，有C#/Java/Python的工作经历；
 > 
